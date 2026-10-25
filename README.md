@@ -2,15 +2,14 @@
 
 ## About the Project
 
-The Personal Portfolio Website is a beginner-friendly web development project created using HTML5 and CSS3. It showcases my personal introduction, educational background, technical skills, academic projects, and contact information in a clean and user-friendly design.
+The Personal Portfolio Website is a beginner-friendly web development project built using HTML5 and CSS3. It presents my personal introduction, educational background, technical skills, academic projects, and contact information in a clean and user-friendly layout.
 
 ## Objectives
 
-- To create a personal portfolio website using HTML5 and CSS3.
-- To showcase my educational background and technical skills.
-- To present my academic projects.
+- To build a personal portfolio website using HTML5 and CSS3.
+- To showcase my education, technical skills, and projects.
 - To practice front-end web development.
-- To provide easy access to my professional profiles and contact information.
+- To provide easy access to my professional profiles and contact details.
 
 ## Technologies Used
 
@@ -18,14 +17,14 @@ The Personal Portfolio Website is a beginner-friendly web development project cr
 - CSS3
 - Visual Studio Code
 - Git and GitHub
-- GitHub Pages for deployment
+- GitHub Pages
 
 ## Features
 
-- Personal introduction in the Home section
+- Home section with personal introduction
 - About section with educational details
-- Technical Skills section
-- Projects section with project repository links
+- Skills section
+- Projects section with GitHub repository links
 - Contact section with email, GitHub, and LinkedIn links
 - Personal profile photo
 - Responsive layout for different screen sizes
@@ -34,13 +33,13 @@ The Personal Portfolio Website is a beginner-friendly web development project cr
 
 ### 1. LearnMate
 
-A student learning platform project focused on sharing learning resources, skills, and knowledge.
+A student learning platform focused on sharing learning resources, skills, and knowledge.
 
 **GitHub Repository:** https://github.com/chakramalluriprathibha/LearnMate
 
 ### 2. Student Performance Analytics System
 
-A Python-based project that uses NumPy and Pandas to analyze student marks and academic performance.
+A Python project that uses NumPy and Pandas to analyze student marks and academic performance.
 
 **GitHub Repository:** https://github.com/chakramalluriprathibha/Student-Performance-Analytics-System
 
@@ -63,38 +62,32 @@ Personal-Portfolio-Website/
 ## Screenshots
 
 ### Home
-
 ![Home Section](screenshots/home.png)
 
 ### About
-
 ![About Section](screenshots/about.png)
 
 ### Skills
-
 ![Skills Section](screenshots/skills.png)
 
 ### Projects
-
 ![Projects Section](screenshots/projects.png)
 
 ### Contact
-
 ![Contact Section](screenshots/contact.png)
 
-## How to Run the Project
+## How to Run Locally
 
 1. Clone or download this repository.
 2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in a web browser.
-4. Alternatively, use the Live Server extension in VS Code.
-5. Navigate through the Home, About, Skills, Projects, and Contact sections.
+3. Open `index.html` in a browser or use the Live Server extension.
+4. Navigate through the five sections.
 
 ## Live Website
 
-This project can be deployed using GitHub Pages.
+Visit my deployed portfolio:
 
-**Live URL:** Add your published GitHub Pages URL after deployment.
+https://chakramalluriprathibha.github.io/Personal-Portfolio-Website/
 
 ## Author
 
@@ -113,5 +106,4 @@ This project can be deployed using GitHub Pages.
 
 ## Conclusion
 
-This project demonstrates the use of HTML5 and CSS3 to build a personal portfolio website. It provides an organized way to present personal information, educational background, technical skills, and academic projects.
-
+This project demonstrates the use of HTML5 and CSS3 to create a personal portfolio website. It provides an organized way to present my profile, education, technical skills, and academic projects for academic and internship purposes.
