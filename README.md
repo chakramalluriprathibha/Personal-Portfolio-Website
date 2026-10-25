@@ -50,7 +50,7 @@ Personal-Portfolio-Website/
 The website can be hosted using GitHub Pages.
 
 ## Author
-**C. M. Prathibha**
+**Chakramalluri Prathibha**
 
 - GitHub: https://github.com/chakramalluriprathibha
 - LinkedIn: https://www.linkedin.com/in/chakramalluri-prathibha-61a1b63b9/
