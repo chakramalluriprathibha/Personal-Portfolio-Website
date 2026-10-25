@@ -1,66 +1,117 @@
 # Personal Portfolio Website
 
 ## About the Project
-The Personal Portfolio Website is a responsive website developed using HTML5 and CSS3 to showcase my profile, educational background, technical skills, academic projects, and contact information. It serves as a personal online space to present my technical knowledge and web development skills.
 
-## Project Objectives
-- To build a professional online portfolio.
-- To showcase my technical skills and academic projects.
-- To create a responsive and user-friendly website.
-- To practice HTML5 and CSS3 concepts.
-- To provide easy access to my resume and professional profiles.
+The Personal Portfolio Website is a beginner-friendly web development project created using HTML5 and CSS3. It showcases my personal introduction, educational background, technical skills, academic projects, and contact information in a clean and user-friendly design.
+
+## Objectives
+
+- To create a personal portfolio website using HTML5 and CSS3.
+- To showcase my educational background and technical skills.
+- To present my academic projects.
+- To practice front-end web development.
+- To provide easy access to my professional profiles and contact information.
 
 ## Technologies Used
+
 - HTML5
 - CSS3
+- Visual Studio Code
 - Git and GitHub
 - GitHub Pages for deployment
 
 ## Features
-- Personal introduction and profile photo
-- About me and education section
-- Technical skills section
-- Academic project showcase with GitHub links
-- Contact information and professional profile links
-- Responsive design for desktop and mobile devices
 
-## Projects Showcased
+- Personal introduction in the Home section
+- About section with educational details
+- Technical Skills section
+- Projects section with project repository links
+- Contact section with email, GitHub, and LinkedIn links
+- Personal profile photo
+- Responsive layout for different screen sizes
+
+## Projects
+
 ### 1. LearnMate
-A learning platform concept designed to help students share learning resources, skills, and knowledge.
+
+A student learning platform project focused on sharing learning resources, skills, and knowledge.
+
+**GitHub Repository:** https://github.com/chakramalluriprathibha/LearnMate
 
 ### 2. Student Performance Analytics System
-A Python-based project that uses NumPy and Pandas to analyze student marks and performance.
+
+A Python-based project that uses NumPy and Pandas to analyze student marks and academic performance.
+
+**GitHub Repository:** https://github.com/chakramalluriprathibha/Student-Performance-Analytics-System
 
 ## Project Structure
+
 ```text
 Personal-Portfolio-Website/
 ├── index.html
 ├── style.css
 ├── my-photo.jpg
-└── README.md
+├── README.md
+└── screenshots/
+    ├── home.png
+    ├── about.png
+    ├── skills.png
+    ├── projects.png
+    └── contact.png
 ```
 
-## How to Run Locally
+## Screenshots
+
+### Home
+
+![Home Section](screenshots/home.png)
+
+### About
+
+![About Section](screenshots/about.png)
+
+### Skills
+
+![Skills Section](screenshots/skills.png)
+
+### Projects
+
+![Projects Section](screenshots/projects.png)
+
+### Contact
+
+![Contact Section](screenshots/contact.png)
+
+## How to Run the Project
+
 1. Clone or download this repository.
 2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in a web browser or use the Live Server extension.
-4. Navigate through the website sections.
+3. Open `index.html` in a web browser.
+4. Alternatively, use the Live Server extension in VS Code.
+5. Navigate through the Home, About, Skills, Projects, and Contact sections.
 
-## Deployment
-The website can be hosted using GitHub Pages.
+## Live Website
+
+This project can be deployed using GitHub Pages.
+
+**Live URL:** Add your published GitHub Pages URL after deployment.
 
 ## Author
+
 **Chakramalluri Prathibha**
 
-- GitHub: https://github.com/chakramalluriprathibha
-- LinkedIn: https://www.linkedin.com/in/chakramalluri-prathibha-61a1b63b9/
-- Email: prathibhanavyasree169@gmail.com
+- **GitHub:** https://github.com/chakramalluriprathibha
+- **LinkedIn:** https://www.linkedin.com/in/chakramalluri-prathibha-61a1b63b9/
+- **Email:** prathibhanavyasree169@gmail.com
 
 ## Future Enhancements
+
 - Add a downloadable resume.
-- Improve accessibility and mobile responsiveness.
+- Improve accessibility and responsive design.
 - Add interactive features using JavaScript.
-- Include more projects and live demonstrations.
+- Showcase additional projects.
 
 ## Conclusion
-This project demonstrates the practical use of HTML5 and CSS3 to build a personal portfolio website. It helps present my educational background, technical skills, and projects in a clear and professional format.
+
+This project demonstrates the use of HTML5 and CSS3 to build a personal portfolio website. It provides an organized way to present personal information, educational background, technical skills, and academic projects.
+
